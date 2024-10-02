@@ -25,4 +25,3 @@ The Stock Price Predictor is a machine learning project designed to predict the 
    git clone https://github.com/your-username/StockPricePredictor.git
 2. Usage
     python stock_price_predictor.py
-
