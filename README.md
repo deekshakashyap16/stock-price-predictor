@@ -9,7 +9,7 @@ The Stock Price Predictor is a machine learning project designed to predict the 
 - Predictions: Generates predictions for stock closing prices based on input features.
 - Visualization: Displays a comparison of actual vs predicted stock prices to evaluate model accuracy.
 
-## Screenshots
+## Images
 ![Stock Price Prediction Graph](stock_predictor_image.png)
 
 ## Technologies Used
