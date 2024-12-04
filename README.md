@@ -22,6 +22,6 @@ The Stock Price Predictor is a machine learning project designed to predict the 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/StockPricePredictor.git
+   git clone https://github.com/deekshakashyap16/stock-price-predictor.git
 2. Usage
     python stock_price_predictor.py
